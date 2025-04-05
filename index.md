@@ -1,4 +1,4 @@
-# Pääotsikkon teksti
+# Pääotsikon teksti
 
 1. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
@@ -16,7 +16,7 @@
 
 ### Vielä pienempi väliotsikko
 
-`Koodi esimerkki.js`
+`Koodiesimerkki.js`
 
 ```js
 // Tästä console log
